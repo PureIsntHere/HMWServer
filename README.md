@@ -1,6 +1,8 @@
 # HMWServer
-Configurations and launch bats for the HMW MWR Client
+base default configurations and launch bat for the HMW MWR Client
 
+Usage docs for the server can be found at: https://docs.horizonmw.org/hmw-game-server-setup-guide-dedicated/
+userscripts folder contains a basic common gsc plugin that spawns bots on your server.
 
 
 
